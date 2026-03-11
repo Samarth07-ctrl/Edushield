@@ -420,8 +420,8 @@ This project demonstrates:
 
 ## 👥 Contributors
 
-Samarth Khadse
-Manan Oswal
+Samarth Khadse | 
+Manan Oswal | 
 Shrikant Kole
 
 ## 🙏 Acknowledgments
