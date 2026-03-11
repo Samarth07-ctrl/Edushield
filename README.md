@@ -1,5 +1,10 @@
 # Privacy-Preserving Federated Learning Framework for Smart Campus Applications
 
+#Contributors 
+  Samarth Khadse
+  Manan Oswal
+  Shrikant Kole
+
 ## 🎯 Project Overview
 
 A complete full-stack demonstration of Federated Learning for smart campus use cases that preserves student privacy by training machine learning models locally on student devices and only sharing encrypted model updates with a central server.
