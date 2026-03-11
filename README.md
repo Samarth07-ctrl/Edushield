@@ -1,10 +1,5 @@
 # Privacy-Preserving Federated Learning Framework for Smart Campus Applications
 
-#Contributors 
-  Samarth Khadse
-  Manan Oswal
-  Shrikant Kole
-
 ## 🎯 Project Overview
 
 A complete full-stack demonstration of Federated Learning for smart campus use cases that preserves student privacy by training machine learning models locally on student devices and only sharing encrypted model updates with a central server.
@@ -323,8 +318,6 @@ curl -X POST http://localhost:5000/api/federated/start \
 - Assignment completion rate
 - Quiz scores
 
-**Model**: Multi-class classification (Subject recommendations)
-
 **Local Training**: Personalized recommendations without sharing grades
 
 ## 📈 Performance Metrics
@@ -425,13 +418,11 @@ This project demonstrates:
 - ✅ Real-world ML deployment
 - ✅ Data privacy compliance
 
-## 📝 License
-
-MIT License - Free for educational and research purposes
-
 ## 👥 Contributors
 
-This is a demonstration project for educational purposes.
+Samarth Khadse
+Manan Oswal
+Shrikant Kole
 
 ## 🙏 Acknowledgments
 
@@ -442,4 +433,4 @@ This is a demonstration project for educational purposes.
 
 ---
 
-**Note**: This is a demonstration system. For production deployment, additional security hardening, scalability improvements, and compliance measures would be required.
+
